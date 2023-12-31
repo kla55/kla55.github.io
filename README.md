@@ -12,7 +12,7 @@ On the website, you'll find blog posts, project showcases, and more related to d
 
 ## Screenshots
 
-![Website Screenshot 1](screenshots/screenshot1.png)
-![Website Screenshot 2](screenshots/screenshot2.png)
+![Website Screenshot 1](images/base_blog_view.png)
+<!-- ![Website Screenshot 2]() -->
 
 You can reach out to me on GitHub: [@kla55](https://github.com/kla55).
